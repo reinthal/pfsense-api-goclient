@@ -1,4 +1,4 @@
-module github.com/sjafferali/pfsense-api-goclient
+module github.com/reinthal/pfsense-api-goclient
 
 go 1.21.7
 
