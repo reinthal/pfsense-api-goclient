@@ -25,7 +25,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/sjafferali/pfsense-api-goclient/pfsenseapi"
+	"github.com/reinthal/pfsense-api-goclient/pfsenseapi"
 )
 
 func main() {
